@@ -8,7 +8,9 @@ main
  {text-align: center;
 font-size: medium;
 }
-img {
+img.picture {
     display: block;
-    margin: auto;
-}
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+ }
