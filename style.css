@@ -1,3 +1,6 @@
 body {
-background-color: yellow;
+color: yellow;
+}
+h1 {
+    font-weight: 400;
 }
