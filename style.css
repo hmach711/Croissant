@@ -1,5 +1,5 @@
 body {
-background-color: yellow;
+background-color: rgb(180, 132, 55);
 }
 h1 {
     font-weight: 400;
@@ -12,5 +12,10 @@ img.picture {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 800px;
+
+ }
+ .pic-title {
+    font-size: larger;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
  }
