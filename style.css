@@ -3,6 +3,7 @@ background-color: rgb(180, 132, 55);
 }
 h1 {
     font-weight: 400;
+    text-align: center;
 }
 main
  {text-align: center;
@@ -15,12 +16,17 @@ img.picture {
 
  }
  .pic-title {
-    font-size: larger;
-    font-weight: 500;
+    font-size: 30px;
+    font-weight: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
+
  }
 
  .contact-us {
 font-family: Georgia, 'Times New Roman', Times, serif;
 size: 15px;
  }
+ .links {
+    text-align: center;
+ }
+ 
